@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+Pillow
+opencv-python
+numpy
+tensorflow
