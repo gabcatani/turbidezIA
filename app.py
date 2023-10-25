@@ -1,3 +1,6 @@
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+
 from flask import Flask, request, jsonify
 import cv2
 import numpy as np
